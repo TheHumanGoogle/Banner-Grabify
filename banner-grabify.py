@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+"""Developed by Shyam Karthick(@TheHumanGoogle).
+   Under the repo- Network-Detective in github.
+   For suggestions/bug fixes,contact: shyamkarthick@protonmail.com"""
+
 import socket
 
 def retbanner(ip,port):
